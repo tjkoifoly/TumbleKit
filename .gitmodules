@@ -1,0 +1,9 @@
+[submodule "Frameworks/ASIHTTPRequest"]
+	path = Frameworks/ASIHTTPRequest
+	url = https://github.com/pokeb/asi-http-request.git
+[submodule "Frameworks/JSONKit"]
+	path = Frameworks/JSONKit
+	url = https://github.com/johnezang/JSONKit.git
+[submodule "Frameworks/ytoolkit"]
+	path = Frameworks/ytoolkit
+	url = https://github.com/sprhawk/ytoolkit.git
